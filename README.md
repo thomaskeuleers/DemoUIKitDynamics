@@ -1,4 +1,5 @@
 DemoUIKitDynamics
 =================
 
-Played around with UIKit Dynamics behavoir
+Played around with UIKit Dynamics behaviors
+
